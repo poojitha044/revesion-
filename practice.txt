@@ -1,3 +1,0 @@
-This line was added from GitHub.
-Practicing Git pull.
-Another update from the remote repository.
